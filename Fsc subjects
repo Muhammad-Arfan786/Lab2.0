@@ -1,0 +1,6 @@
+cout<<"My subject is:"<<English";
+cout<<"My subject is:"<<Urdu";
+cout<<"My subject is:"<<Math";
+cout<<"My subject is:"<<Chemistry";
+cout<<"My subject is:"<<Physics";
+cout<<"My subject is:"<<Islamiyat";
